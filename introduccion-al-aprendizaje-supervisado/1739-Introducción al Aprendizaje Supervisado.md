@@ -54,3 +54,18 @@ El aprendizaje supervisado puede dividirse a su vez en dos tipos:
 Para decidir si usar un modelo de regresión o de clasificación, la primera pregunta que debes hacerte es:
 
 ¿Su variable objetivo tiene un valor continuo o es discreta (binaria o multiclase)?
+
+## Regresión
+Si la respuesta es un valor continuo, se trata de una regresión.
+
+Si está tratando de predecir cantidades como la altura, los ingresos, el precio o las puntuaciones, debe utilizar un modelo que dé como resultado un número continuo.
+
+Así, si su objetivo es determinar la temperatura de mañana, debe utilizar un modelo de regresión.
+
+## Clasificación
+
+Pasemos al segundo caso, en el que puede ver que la variable objetivo está dividida en clases. Utilizarás la clasificación.
+
+* Cuando el número de clases es 2, se conoce como Clasificación binaria. Por ejemplo, si mañana hará frío o calor es un problema de clasificación binaria con dos categorías: Caliente y Frío.
+
+* Cuando el número de clases es superior a 2, se denomina clasificación multiclase. Por ejemplo, clasificar las películas como buenas, regulares o malas según las críticas.
