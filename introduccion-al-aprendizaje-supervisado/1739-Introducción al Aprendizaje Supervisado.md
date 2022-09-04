@@ -83,8 +83,8 @@ Aprendamos con algunos ejemplos:
 * En la Clasificación, clasificamos el resultado
 * Ejemplos:
 
-  * Predecir si una transacción es fraudulenta o no
-  * Predecir si se concede un préstamo o no
-  * Predecir si se concede o no la admisión a la universidad
-  * Predecir la nota (Grado A, B, C, D)
-  * Nota: La clasificación puede ser más de dos`
+  * Predecir si una transacción es fraudulenta o no.
+  * Predecir si se concede un préstamo o no.
+  * Predecir si se concede o no la admisión a la universidad.
+  * Predecir la nota (Grado A, B, C, D).
+  * Nota: La clasificación puede ser más de dos.
