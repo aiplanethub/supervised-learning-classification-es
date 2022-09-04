@@ -52,4 +52,5 @@ El aprendizaje supervisado puede dividirse a su vez en dos tipos:
 ![clasificacion.png](https://dphi-live.s3.amazonaws.com/media_uploads/clasificacion_ed5917b7f5084d7fa0c02d93a15dba93.png)
 
 Para decidir si usar un modelo de regresión o de clasificación, la primera pregunta que debes hacerte es:
+
 ¿Su variable objetivo tiene un valor continuo o es discreta (binaria o multiclase)?
