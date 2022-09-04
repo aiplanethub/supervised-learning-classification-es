@@ -31,7 +31,8 @@ Los algoritmos de aprendizaje no supervisado pretenden encontrar alguna estructu
 
 Se denominan aprendizaje no supervisado porque, a diferencia del aprendizaje supervisado, no hay respuestas correctas y no hay un profesor. Los algoritmos se dejan solos para descubrir y presentar la estructura interesante en los datos.
 
-Algoritmos de aprendizaje por refuerzo
+## Algoritmos de aprendizaje por refuerzo
+
 Un robot da un gran paso adelante y luego se cae. La siguiente vez, da un paso más pequeño y es capaz de mantener el equilibrio. El robot intenta variaciones como ésta muchas veces; finalmente, aprende el tamaño correcto de los pasos que debe dar y camina con firmeza. Ha tenido éxito.
 
 Lo que vemos aquí se llama aprendizaje por refuerzo. El robot aprende a caminar en función de la recompensa (mantenerse en equilibrio) y el castigo (caerse). Esta retroalimentación se considera "refuerzo" por hacer o no hacer una acción.
