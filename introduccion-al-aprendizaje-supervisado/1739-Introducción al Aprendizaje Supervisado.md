@@ -25,7 +25,7 @@ Se llama aprendizaje supervisado porque el proceso de aprendizaje de un algoritm
 
 ## Algoritmos de aprendizaje no supervisado
 
-El aprendizaje no supervisado es aquel en el que hay datos no etiquetados (o ninguna variable destino) en el conjunto de datos.
+El aprendizaje no supervisado es aquel en el que hay datos no etiquetados (o ninguna variable objetivo) en el conjunto de datos.
 
 Los algoritmos de aprendizaje no supervisado pretenden encontrar alguna estructura en el conjunto de datos.
 
