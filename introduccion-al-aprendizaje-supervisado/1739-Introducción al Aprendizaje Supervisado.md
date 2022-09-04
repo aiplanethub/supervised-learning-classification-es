@@ -69,3 +69,10 @@ Pasemos al segundo caso, en el que puede ver que la variable objetivo está divi
 * Cuando el número de clases es 2, se conoce como Clasificación binaria. Por ejemplo, si mañana hará frío o calor es un problema de clasificación binaria con dos categorías: Caliente y Frío.
 
 * Cuando el número de clases es superior a 2, se denomina clasificación multiclase. Por ejemplo, clasificar las películas como buenas, regulares o malas según las críticas.
+
+![clasificacion-rregresion.png](https://dphi-live.s3.amazonaws.com/media_uploads/clasificacion-rregresion_268c8ae5392b4a69a5c200042db94d30.png)
+
+Entender las características de su variable objetivo es esencial antes de empezar a ejecutar modelos y formar predicciones.
+
+**En este curso, nos centraremos en la clasificación.
+**
