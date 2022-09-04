@@ -88,3 +88,11 @@ Aprendamos con algunos ejemplos:
   * Predecir si se concede o no la admisión a la universidad.
   * Predecir la nota (Grado A, B, C, D).
   * Nota: La clasificación puede ser más de dos.
+
+![clasificacion2.png](https://dphi-live.s3.amazonaws.com/media_uploads/clasificacion2_1ea23871771e4f5c8293a8813dca865c.png)
+
+## ¿Qué es la Multi-Clasificación?
+
+Es tan sencillo como dividir los residuos en cuatro categorías: plástico, vidrio, metal y papel.
+
+![multi-classificacion.png](https://dphi-live.s3.amazonaws.com/media_uploads/multi-classificacion_efe97f120c5c483ba7dcc1f4bcacfb25.png)
