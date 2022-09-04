@@ -38,3 +38,10 @@ Un robot da un gran paso adelante y luego se cae. La siguiente vez, da un paso m
 Lo que vemos aquí se llama aprendizaje por refuerzo. El robot aprende a caminar en función de la recompensa (mantenerse en equilibrio) y el castigo (caerse). Esta retroalimentación se considera "refuerzo" por hacer o no hacer una acción.
 
 En términos sencillos, el aprendizaje por refuerzo consiste en aprender las mejores acciones en función de la recompensa o el castigo.
+
+## Tipos de algoritmos de aprendizaje supervisado
+
+El aprendizaje supervisado puede dividirse a su vez en dos tipos:
+
+* Clasificación
+* Regresión
