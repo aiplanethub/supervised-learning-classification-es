@@ -76,3 +76,15 @@ Entender las características de su variable objetivo es esencial antes de empez
 
 **En este curso, nos centraremos en la clasificación.
 **
+
+## ¿Qué es la clasificación?
+Aprendamos con algunos ejemplos:
+
+* En la Clasificación, clasificamos el resultado
+* Ejemplos:
+
+  * Predecir si una transacción es fraudulenta o no
+  * Predecir si se concede un préstamo o no
+  * Predecir si se concede o no la admisión a la universidad
+  * Predecir la nota (Grado A, B, C, D)
+  * Nota: La clasificación puede ser más de dos`
