@@ -45,3 +45,8 @@ El aprendizaje supervisado puede dividirse a su vez en dos tipos:
 
 * Clasificación
 * Regresión
+
+## Clasificación vs Regresión
+
+![regression.png](https://dphi-live.s3.amazonaws.com/media_uploads/regression_1414d8e4641141be9e72202a67804f52.png)
+![clasificacion.png](https://dphi-live.s3.amazonaws.com/media_uploads/clasificacion_ed5917b7f5084d7fa0c02d93a15dba93.png)
