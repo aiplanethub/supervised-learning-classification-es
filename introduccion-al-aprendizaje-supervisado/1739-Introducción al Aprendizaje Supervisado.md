@@ -96,3 +96,6 @@ Aprendamos con algunos ejemplos:
 Es tan sencillo como dividir los residuos en cuatro categorías: plástico, vidrio, metal y papel.
 
 ![multi-classificacion.png](https://dphi-live.s3.amazonaws.com/media_uploads/multi-classificacion_efe97f120c5c483ba7dcc1f4bcacfb25.png)
+
+Enlace de descarga de diapositivas
+Puede descargar las diapositivas de este tema desde [aquí](https://docs.google.com/presentation/d/1qsCHaAIR4ZNhsuqyc_sjxEE2Zik9hgdKij9QRZ1KsxE/edit).
