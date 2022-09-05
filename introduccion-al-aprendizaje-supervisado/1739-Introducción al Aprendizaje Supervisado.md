@@ -80,7 +80,7 @@ Entender las características de su variable objetivo es esencial antes de empez
 ## ¿Qué es la Clasificación?
 Aprendamos con algunos ejemplos:
 
-* En la Clasificación, clasificamos el resultado
+* En la Clasificación, clasificamos el resultado.
 * Ejemplos:
 
   * Predecir si una transacción es fraudulenta o no.
