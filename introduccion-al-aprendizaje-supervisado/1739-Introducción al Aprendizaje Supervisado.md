@@ -28,6 +28,7 @@ Basado en datos
 (Identificar Grupos)
 Aprende de 
 Error
+---
 
 ## Algoritmos de aprendizaje supervisado
 
