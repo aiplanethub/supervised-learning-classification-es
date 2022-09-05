@@ -14,6 +14,20 @@
 
 ![ML Categorization.png](https://dphi-live.s3.amazonaws.com/media_uploads/ML_Categorization_f99b6268dba44106851425bf55fcb584.png)
 
+Las traducciones precisas para la imagen de arriba se pueden encontrar a continuación:
+
+---
+Equipo
+Aprendizaje
+Supervisar
+Sin Supervisión
+Refuerzo
+Orientado a Tareas
+(Predecir el siguiente valor)
+Basado en datos
+(Identificar Grupos)
+Aprende de 
+Error
 
 ## Algoritmos de aprendizaje supervisado
 
