@@ -10,6 +10,10 @@
 ## ¿Qué es el aprendizaje automático?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gmvvaobm7eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[La versión transcrita del video en español se puede encontrar aquí.](https://drive.google.com/file/d/1toum-0HwmixUmkIumWh2D5993ykORvQB/view?usp=drivesdk)
+
+
+
 ## Categorización del aprendizaje automático
 
 ![ML Categorization.png](https://dphi-live.s3.amazonaws.com/media_uploads/ML_Categorization_f99b6268dba44106851425bf55fcb584.png)
