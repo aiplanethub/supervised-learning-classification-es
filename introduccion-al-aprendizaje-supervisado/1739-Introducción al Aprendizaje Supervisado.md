@@ -77,7 +77,7 @@ Entender las características de su variable objetivo es esencial antes de empez
 **En este curso, nos centraremos en la clasificación.
 **
 
-## ¿Qué es la clasificación?
+## ¿Qué es la Clasificación?
 Aprendamos con algunos ejemplos:
 
 * En la Clasificación, clasificamos el resultado
